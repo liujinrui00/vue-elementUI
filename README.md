@@ -1,24 +1,4 @@
-# demo01
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+本项目使用的是vue+elementUI，通过提供的API接口，使用axios发送请求获取数据
+安装Vue脚手架，使用Vue脚手架可以快速生成Vue项目基础架构
+本项目使用基于ui界面创建项目
+在windows PowerShell 输入命令vue ui 打开项目配置信息，通过按需导入elementUI相关组件，减小项目体积
